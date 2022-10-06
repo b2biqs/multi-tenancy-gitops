@@ -92,7 +92,7 @@ resources:
 #- argocd/operators/cert-manager.yaml
 #- argocd/instances/cert-manager-instance.yaml
 
-# Sealed Secrets
+# Sealed Secretsd
 - argocd/instances/sealed-secrets.yaml
 
 # CICD
